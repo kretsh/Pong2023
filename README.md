@@ -5,6 +5,6 @@ Pong: a onepage fullstack website providing a multiplayer platform for users to 
 
 Pong uses the following technologies:
 - **ReactTS**
-- **NestTS**
+- **NestJS**
 - **PostgreSQL**
-
+- **Docker-compose**
